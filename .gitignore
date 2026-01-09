@@ -208,3 +208,5 @@ __marimo__/
 
 .complexipy_cache/
 *.sh
+voices/
+wav_files/
